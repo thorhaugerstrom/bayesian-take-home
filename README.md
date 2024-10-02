@@ -2,8 +2,7 @@
 # Music Catalog
 
 ## Setup
-1. Clone the repo:
-
+1. Clone the repo
 
 2. Set up virtual environment and install dependencies:
 python3 -m venv venv
